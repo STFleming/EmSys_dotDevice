@@ -39,7 +39,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="504.24196"
+     inkscape:cx="671.51312"
      inkscape:cy="211.40471"
      inkscape:document-units="mm"
      inkscape:current-layer="g65"
@@ -50,7 +50,7 @@
      fit-margin-bottom="5"
      inkscape:window-width="1918"
      inkscape:window-height="1057"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="false" />
@@ -88,7 +88,7 @@
                height="334.28571"
                x="-49.285713"
                y="-49.769691" /></flowRegion><flowPara
-             id="flowPara229"></flowPara></flowRoot>        <rect
+             id="flowPara229" /></flowRoot>        <rect
            style="fill:none;stroke:#000000;stroke-width:3.28923845"
            id="rect371"
            width="451.82227"
@@ -227,7 +227,7 @@
              x="549.51355"
              y="725.39917"
              style="font-size:52.62781525px;line-height:0;stroke-width:3.28923845"
-             id="tspan466">instruction memory</tspan></text>
+             id="tspan466">icommand memory</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.08520889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.28923845"
@@ -373,15 +373,15 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.39911652px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.28923845"
-           x="-157.67271"
-           y="687.80786"
+           x="-218.75858"
+           y="680.75952"
            id="text616"
            transform="scale(-0.99128522,-1.0087914)"><tspan
              sodipodi:role="line"
              id="tspan614"
-             x="-157.67271"
-             y="687.80786"
-             style="stroke-width:3.28923845;-inkscape-font-specification:'sans-serif Italic';font-family:sans-serif;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">state=load</tspan></text>
+             x="-218.75858"
+             y="680.75952"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:3.28923845">state==loading</tspan></text>
         <rect
            style="fill:none;stroke:#000000;stroke-width:3.28923845"
            id="rect500-9"
@@ -467,15 +467,15 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.3991127px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.28923845"
-           x="1413.6921"
-           y="680.15466"
+           x="1364.3535"
+           y="682.50415"
            id="text616-0"
            transform="scale(-0.99128522,-1.0087914)"><tspan
              sodipodi:role="line"
              id="tspan614-6"
-             x="1413.6921"
-             y="680.15466"
-             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:3.28923845">state=running</tspan></text>
+             x="1364.3535"
+             y="682.50415"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:3.28923845">state==running</tspan></text>
         <rect
            style="fill:none;stroke:#000000;stroke-width:3.79634547"
            id="rect512-8-1"

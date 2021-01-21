@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="600.35513"
+     inkscape:cx="762.14084"
      inkscape:cy="218.3373"
      inkscape:document-units="mm"
      inkscape:current-layer="g65"
@@ -220,7 +220,7 @@
            ry="158.79744" />
         <g
            id="g155"
-           transform="translate(-2165.9525,218.05021)">
+           transform="matrix(0.41176466,0,0,0.3877551,-2058.5312,-246.15435)">
           <ellipse
              ry="116.13544"
              rx="118.77802"
@@ -263,7 +263,7 @@
                height="334.28571"
                x="-49.285713"
                y="-49.769691" /></flowRegion><flowPara
-             id="flowPara229"></flowPara></flowRoot>        <rect
+             id="flowPara229" /></flowRoot>        <rect
            style="fill:#000000;stroke-width:4.62980986"
            id="rect157-3"
            width="3442.2339"
@@ -296,14 +296,14 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:122.7982254px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.28923845"
-           x="1880.651"
-           y="420.54431"
+           x="1890.049"
+           y="483.97958"
            id="text161-6"
            transform="scale(-0.99128522,-1.0087914)"><tspan
              sodipodi:role="line"
              id="tspan159-7"
-             x="1880.651"
-             y="420.54431"
+             x="1890.049"
+             y="483.97958"
              style="font-size:78.94171906px;stroke-width:3.28923845">Hello!</tspan></text>
         <text
            xml:space="preserve"
