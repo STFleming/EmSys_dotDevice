@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="762.14084"
+     inkscape:cx="447.78705"
      inkscape:cy="218.3373"
      inkscape:document-units="mm"
      inkscape:current-layer="g65"
@@ -37,7 +37,7 @@
      fit-margin-bottom="5"
      inkscape:window-width="1918"
      inkscape:window-height="1057"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
@@ -316,7 +316,7 @@
              id="tspan328"
              x="-813.17102"
              y="342.43781"
-             style="font-size:70.17041779px;stroke-width:3.28923845">These devices are visual representations of your ESP32</tspan><tspan
+             style="font-size:70.17041779px;stroke-width:3.28923845">These devices are virtual representations of your ESP32</tspan><tspan
              sodipodi:role="line"
              x="-813.17102"
              y="430.15082"
