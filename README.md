@@ -1,14 +1,5 @@
 ![](imgs/Banner.svg)
 
--------------------------------------------------------
-### Viewing the virtual lab
-To view the virtual lab connect to the Swansea University [VPN](http://vpn.swansea.ac.uk/) and navigate in your favourite browser to 
-```
-http://cs-s-fleming-pc.swan.ac.uk:4000
-```
-Any issues accessing the virtual lab display contact please post a query in the ```raise-your-hand``` channel in the lab Discord.
-
--------------------------------------------------------
 ### Communicating with your device
 Commands are sent to your dotDevice from your ESP32 via WebSockets to the central EmSys Lab server. The address of the EmSys Lab server is ```ws://192.168.1.3``` Please refer to the [Lab1 handout](https://github.com/STFleming/EmSys_Lab1) for how to establish the websocket connection.
 
