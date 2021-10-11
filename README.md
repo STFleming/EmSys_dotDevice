@@ -1,7 +1,7 @@
 ![](imgs/Banner.svg)
 
 ### Communicating with your device
-Commands are sent to your dotDevice from your ESP32 via WebSockets, using the dotDevice.h header file, to the central EmSys Lab server. The address of the EmSys Lab server is ```ws://ec2-52-15-138-171.us-east-2.compute.amazonaws.com:1234```. 
+Commands are sent to your dotDevice from your ESP32 via WebSockets, using the dotDevice.h header file, to the central EmSys Lab server. Please see the following [[here](https://github.com/STFleming/EmSys_21A_lab2/blob/main/src/example/example.ino)] for an example on how to send a command to your dotDevice from the TinyPico. 
 
 The command format is a JSON formatted string with the following format:
 ```
@@ -12,12 +12,12 @@ The command format is a JSON formatted string with the following format:
 }
 ```
 
-Where ```<YOUR GROUP GID>``` is a unique identifier assigned to your group, you should have received this in an email when your group was first assigned. If you do not know your groups gid please send Shane a message.
+Where ```<YOUR GROUP GID>``` is a unique identifier assigned to your group, you should have received this in an email when your group was first assigned. If you do not know your groups ``gid`` please send Shane a message.
 
 Commands are split into two categories: __ACTION__ and __CONFIG__ commands. __ACTION__ commands are used to manipulate how your device is shown on screen, for example, movement or colour; as __CONFIG__ commands are used to alter the internal state of your device, for example, configuring the device internal timer. (See Section _"Programming your dotDevice"_ for more information on __CONFIG__ commands). 
 
 The table below contains a list of __ACTION__ commands that you can send to your device in the ```<COMMAND YOU WISH TO EXECUTE>``` field. It also contains details on the ```<COMMAND SPECIFIC ARGUMENTS (CSA)>``` for each command.
-In all the examples we shall use an example device with the name ```C0FFEE```.
+In all the examples we shall use an example gid ```C0FFEE```.
 
 | __ACTION Commands__                |  __Command Specific Arguments__ |    __Example__ |
 |----------------------------|---------------------------|--------------------------------|
