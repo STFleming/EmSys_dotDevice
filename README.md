@@ -6,13 +6,13 @@ Commands are sent to your dotDevice from your ESP32 via WebSockets, using the do
 The command format is a JSON formatted string with the following format:
 ```
 {
-        "device": "<YOUR DEVICE NAME>",
+        "device": "<YOUR GROUPS GID>",
         "cmd": "<COMMAND YOU WISH TO EXECUTE>",
         <COMMAND SPECIFIC ARGUMENTS (CSA)>
 }
 ```
 
-Where ```<YOUR DEVICE NAME>``` is a unique name assigned to your device. If you do not know the name of your device please post a query in the ```raise-your-hand``` lab Discord channel.
+Where ```<YOUR GROUP GID>``` is a unique identifier assigned to your group, you should have received this in an email when your group was first assigned. If you do not know your groups gid please send Shane a message.
 
 Commands are split into two categories: __ACTION__ and __CONFIG__ commands. __ACTION__ commands are used to manipulate how your device is shown on screen, for example, movement or colour; as __CONFIG__ commands are used to alter the internal state of your device, for example, configuring the device internal timer. (See Section _"Programming your dotDevice"_ for more information on __CONFIG__ commands). 
 
